@@ -1,2 +1,3 @@
 # fs-mock
-Stores filesystem structure (only names) in a zip file
+Stupid ugly, but working Windows app that copies file structure into a .zip file.
+No content of any file is stored. Only names are copied.
